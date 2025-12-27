@@ -1,0 +1,13 @@
+# Core LangChain libraries
+langchain>=0.1
+langchain-google-genai
+
+# LangGraph for conversation flow
+langgraph>=0.1
+
+# Graph visualization (optional)
+graphviz
+
+# Notebook / interactive environment
+ipython
+jupyter
